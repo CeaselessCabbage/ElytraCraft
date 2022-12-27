@@ -1,0 +1,21 @@
+{
+	"itemGroup.elytracraft": "ElytraCraft",
+	
+	"item.elytracraft.wood_elytra":      "Wooden Elytra",
+	"item.elytracraft.stone_elytra":     "Stone Elytra",
+	"item.elytracraft.copper_elytra":    "Copper Elytra",
+	"item.elytracraft.iron_elytra":      "Iron Elytra",
+	"item.elytracraft.gold_elytra":      "Gold Elytra",
+	"item.elytracraft.diamond_elytra":   "Diamond Elytra",
+	"item.elytracraft.netherite_elytra": "Netherite Elytra",
+	"item.elytracraft.emerald_elytra":   "Emerald Elytra",
+	
+	"item.elytracraft.wood_booster": "Wooden Booster",
+	"item.elytracraft.stone_booster": "Stone Booster",
+	"item.elytracraft.copper_booster": "Copper Booster",
+	"item.elytracraft.iron_booster": "Iron Booster",
+	"item.elytracraft.gold_booster": "Gold Booster",
+	"item.elytracraft.diamond_booster": "Diamond Booster",
+	"item.elytracraft.netherite_booster": "Netherite Booster",
+	"item.elytracraft.emerald_booster": "Emerald Booster"
+}

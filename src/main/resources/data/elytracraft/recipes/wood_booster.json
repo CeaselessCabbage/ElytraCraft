@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        " x ",
+        "xox",
+        "xox"
+    ],
+    "key":
+    {
+        "x":
+        {
+            "tag": "minecraft:planks" 
+        },
+        "o": [
+          {
+              "item": "minecraft:coal"
+          },
+	    {
+	        "item": "minecraft:charcoal"
+	    }
+	  ]
+    },
+    "result":
+    {
+        "item": "elytracraft:wood_booster"
+    }
+}

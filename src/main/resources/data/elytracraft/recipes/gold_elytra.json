@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        " x ",
+        "xox",
+        "x x"
+    ],
+    "key":
+    {
+        "x":
+        {
+            "item": "minecraft:gold_ingot" 
+        },
+        "o":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    "result":
+    {
+        "item": "elytracraft:gold_elytra"
+    }
+}

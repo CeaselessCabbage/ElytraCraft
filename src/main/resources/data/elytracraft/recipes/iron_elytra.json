@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        " x ",
+        "xox",
+        "x x"
+    ],
+    "key":
+    {
+        "x":
+        {
+            "item": "minecraft:iron_ingot" 
+        },
+        "o":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    "result":
+    {
+        "item": "elytracraft:iron_elytra"
+    }
+}

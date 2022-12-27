@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        " x ",
+        "xox",
+        "xox"
+    ],
+    "key":
+    {
+        "x":
+        {
+            "item": "minecraft:emerald" 
+        },
+        "o": [
+          {
+              "item": "minecraft:coal"
+          },
+	    {
+	        "item": "minecraft:charcoal"
+	    }
+	  ]
+    },
+    "result":
+    {
+        "item": "elytracraft:emerald_booster"
+    }
+}

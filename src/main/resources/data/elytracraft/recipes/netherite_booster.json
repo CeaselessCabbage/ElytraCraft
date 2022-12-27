@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing",
+    "base":
+    {
+    	"item": "elytracraft:diamond_booster"
+    },
+    "addition":
+    {
+        "item": "minecraft:netherite_ingot"
+    },
+    "result":
+    {
+        "item": "elytracraft:netherite_booster"
+    }
+}
